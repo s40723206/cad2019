@@ -14,12 +14,28 @@
 <p>cmsimde 的開發採用 Leo Editor, 開啟 cmsimde 目錄中的 cmsimde.leo 就可以進行程式修改, 結束後, 若要保留網際內容, 只要將 cmsimde 外部的內容倒回 up_dir 目錄中即可後續對 cmsimde 遠端倉儲進行改版.</p>
 <p>init.py 位於  up_dir 目錄, 可以設定 site_title 與 uwsgi 等變數.</p>
 <h1>每周內容(week2~week9)</h1>
-<h3><em>week2</em></h3>
+<pre><em>week2</em></pre>
 <p><strong>創建github倉儲、設定新版可攜式套件</strong></p>
 <p>1.創建課程倉儲並git clone到近端。</p>
 <p>2.用git config 設定name、email及proxy。</p>
 <p>3.用新指令 git submodule add 載下模組。</p>
 <p>4.輸入 python -m pip install flask cors 指令裝 pip 套件。</p>
 <p><span>5.練習開啟近端及遠端並更改網頁名稱。</span></p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/cxYNZMwDYKc" width="560"></iframe></p>
+<p><span></span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/y2TQRMlc2i0" width="560"></iframe></span></p>
+<p><em></em></p>
+<pre><em>week3</em></pre>
+<p><b>Solvespace 編譯</b></p>
+<p>1.先將<span>Y:\portablegit\bin\sh.exe 改名為 sh_rename_for_solvespace.exe。</span></p>
+<p>2.在小黑框輸入 git version 檢查版本，版本必須在2.13以上。</p>
+<p>3.再輸入<span> git clone </span><span>--recurse-submodules 來取得子模組。</span></p>
+<p><span>4.將CMakeLists文字檔內的713跟714行前面打上"#"字號。</span></p>
+<p>5.將<span> libpng.dll.a 檔名更改為 libpng_static.a。</span></p>
+<p><span>6.到build子目錄執行cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release然後再執行mingw32-make。</span></p>
+<p><span>7.回到 solvespace 原始碼目錄,建立 build 目錄後進入 build 目錄。</span></p>
+<p><span>8.再執行一次cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release<br/><span>mingw32-make。</span></span></p>
+<p><span><span></span></span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/i0uU9Pv4N-A" width="560"></iframe></p>
 <p></p>
+<pre><em>week4</em></pre>
+<p>完成前兩周的進度，並練習solvespace繪圖。</p>
