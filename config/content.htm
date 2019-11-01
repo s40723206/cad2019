@@ -56,8 +56,20 @@
 <p style="text-align: left;"><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/KYYWy1LLZMk" width="560"></iframe></span></p>
 <p style="text-align: justify;"><strong>↓↓↓ 成品圖 ↓↓↓</strong></p>
 <p><img alt="" height="303" src="/images/solvespace_2019-11-01_01-23-05.png" width="564"/></p>
+<p><strong></strong></p>
 <p><strong>三、新增開始停止紐</strong></p>
-<h2>week10-14</h2>
+<p>1.進到課程網站的倉儲裡的issue尋找#14。</p>
+<p>2.開起隨身系統，並進入web_vrep2裡開啟<span>templates</span><span>中的</span><span>controls.html</span>。</p>
+<p>3.更改紅色空格處&lt;td&gt;&lt;a class="pure-button pure-button-primary" href="/do/  "<span style="color: #ff0000;">_____</span>"&gt;<span style="color: #ff0000;">_____</span>&lt;/a&gt;&lt;/td&gt;分別加入start和stop的按鈕。</p>
+<p style="text-align: left;">4.<span>用小白框開啟</span><span>vrep_linefollower，並</span><span>定義start和stop按鈕</span><span>。</span></p>
+<p style="text-align: left;"><span> if direction == '<span style="color: #ff0000;">start</span>':<br/> vrep.simxStartSimulation(self.clientID, vrep.simx_opmode_oneshot)<br/> <span style="color: #ff0000;">el</span>if direction == '<span style="color: #ff0000;">stop</span>':<br/> vrep.simxStopSimulation(self.clientID, vrep.simx_opmode_oneshot)</span></p>
+<p style="text-align: left;"><span>5.最後要記得補上else然後對齊好。</span></p>
+<p style="text-align: left;"><span>6.執行 web_vrep2 裡的 app.py來開啟 <span><span>localhost:5000 後就可以操作了</span></span>。</span></p>
+<p style="text-align: left;"><span></span></p>
+<p style="text-align: left;"><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/8ArNx1b6ZpU" width="560"></iframe></span></p>
+<h4><em></em></h4>
+<h4><em>week7</em></h4>
+<p style="text-align: left;"><span></span></p><h2>week10-14</h2>
 <h2>week15-18</h2>
 <h1>About</h1>
 <p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
