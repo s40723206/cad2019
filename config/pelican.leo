@@ -11,6 +11,7 @@
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="yen.20170108171733.1"><vh>@path ../</vh>
+<v t="leo.20191108165536.1"><vh>@auto blog\index.html</vh></v>
 <v t="leo.20180115150519.1"><vh>@edit index.html</vh></v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
@@ -67,6 +68,7 @@
 <v t="leo.20180115115910.1"><vh>2018</vh>
 <v t="leo.20180423103639.1"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180910.md</vh></v>
+<v t="leo.20191108165611.1"><vh>@edit 20180910.md</vh></v>
 <v t="leo.20180909205246.1"><vh>@edit 20180911.md</vh></v>
 </v>
 </v>
