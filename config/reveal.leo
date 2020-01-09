@@ -20,7 +20,9 @@
 <v t="leo.20180902120523.8"><vh>slides div</vh>
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
-<v t="leo.20200110022049.1"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110022951.1"><vh>封面投影片</vh>
+<v t="leo.20200110022951.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -327,11 +329,22 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200110022049.1">## week2
+<t tx="leo.20200110022951.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110022951.2">## week2
 
 ### 創建github倉儲、設定新版可攜式套件
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/y2TQRMlc2i0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
 
 </t>
 </tnodes>
