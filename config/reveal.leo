@@ -21,14 +21,38 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200110022951.1"><vh>week2</vh>
+<v t="leo.20200110022951.1"><vh>week2-5</vh>
 <v t="leo.20200110022951.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200110023252.1"><vh>week3</vh>
-<v t="leo.20200110023252.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110121438.1"><vh>week6</vh>
+<v t="leo.20200110121438.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200110023415.1"><vh>week5</vh>
-<v t="leo.20200110023415.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200110103711.1"><vh>week7</vh>
+<v t="leo.20200110103711.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110103356.1"><vh>week8</vh>
+<v t="leo.20200110103356.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110104126.1"><vh>week9</vh>
+<v t="leo.20200110104126.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110104313.1"><vh>week10</vh>
+<v t="leo.20200110104313.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110105124.1"><vh>week12~14</vh>
+<v t="leo.20200110105124.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110105559.1"><vh>week15</vh>
+<v t="leo.20200110110321.1"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110110437.1"><vh>week16</vh>
+<v t="leo.20200110110437.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110113648.1"><vh>week17</vh>
+<v t="leo.20200110114708.1"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110115951.1"><vh>week17 影片</vh>
+<v t="leo.20200110115951.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -62,9 +86,9 @@
 Created by [王冠驊](https://s40723206.github.io/cad2019/content/)
 &lt;/small&gt;
 
-[網誌](./../blog/index.html)
-&lt;p&gt;[倉儲](https://github.com/s40723206/cad2019)&lt;/p&gt;
-&lt;p&gt;[網站](https://s40723206.github.io/cad2019/content/index.html)&lt;/p&gt;
+* [網誌](https://s40723206.github.io/cad2019/blog/index.html)
+* [倉儲](https://github.com/s40723206/cad2019)
+* [網站](https://s40723206.github.io/cad2019/content/index.html)
 
 
 
@@ -179,7 +203,7 @@ make.start()
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+40723206 簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -344,16 +368,16 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200110022951.2">## week2
+<t tx="leo.20200110022951.2">## week2-5
 
-### 創建github倉儲、設定新版可攜式套件
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/y2TQRMlc2i0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
+* w2:創建github倉儲、設定新版可攜式套件
+* w3:Solvespace 編譯
+* w4:跟上進度，並練習solvespace繪圖
+* w5:solvespace製圖
 
 
 </t>
-<t tx="leo.20200110023252.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110103356.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -362,16 +386,19 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200110023252.2">## week3
+<t tx="leo.20200110103356.2">## week8
 
-### Solvespace 編譯
+* 建立webot啟動鈕
+* 開啟個人網誌
+* 製作ssh金匙並連接github
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/i0uU9Pv4N-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+[個人youtube](https://www.youtube.com/channel/UChR1_TDqKj8ARqsus68QuqA?view_as=subscriber)
+
 
 
 
 </t>
-<t tx="leo.20200110023415.1">&lt;section data-markdown&gt;
+<t tx="leo.20200110103711.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -380,12 +407,172 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200110023415.2">## week5
+<t tx="leo.20200110103711.2">## week7
 
-### solvespace製圖
+* 編譯solvespace納入學號
+* solvecpace繪圖認證
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gvnO05VLaiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+[個人youtube](https://www.youtube.com/watch?v=gvnO05VLaiIr)
 
+
+
+
+</t>
+<t tx="leo.20200110104126.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110104126.2">## week9
+
+###期中報告
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8tXRPZW-fPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20200110104313.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110104313.2">## week10
+
+* 分組並建立各組倉儲再將組員加入
+* nx12與nx3的安裝說明與設定
+
+[bg3分組網站連結](https://s40723206.github.io/cad2019bg3/content/index.html)
+
+
+
+
+</t>
+<t tx="leo.20200110105124.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110105124.2">## week12~14
+
+* [各組NX教科書整理](https://s40723206.github.io/cad2019/content/week10-14.html)
+* [各軟體的安裝和特點分析整理](https://s40723206.github.io/cad2019/content/%E5%90%84%E8%BB%9F%E9%AB%94%E4%B9%8B%E7%89%B9%E9%BB%9E%E5%88%86%E6%9E%90%E8%88%87%E5%AE%89%E8%A3%9D%E6%B5%81%E7%A8%8B.html)
+* webot和V-rep練習 tutorial
+
+[個人youtube](https://www.youtube.com/channel/UChR1_TDqKj8ARqsus68QuqA?view_as=subscriber)
+
+
+
+
+</t>
+<t tx="leo.20200110105559.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110110321.1">## week15
+
+###學習成果報告
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FgluoI3wZ7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20200110110437.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110110437.2">## week16
+
+###課堂測驗
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SyKDaWpiLZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+</t>
+<t tx="leo.20200110113648.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110114708.1">## week17
+
+### 課堂測驗
+* 各組分工整理webot 和 v-rep建模方法
+* 將越野車導入v-rep設定阻尼
+* 再將越野車增加驅動馬達
+
+
+
+
+
+
+</t>
+<t tx="leo.20200110115951.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110115951.2">## week17 影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/S0Vy5G8ReJ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+
+</t>
+<t tx="leo.20200110121438.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110121438.2">## week6
+
+* V-rep 模型控制
+* 參數化零組件繪製
+* 新增"stop"和"start"鈕
+
+[個人youtube](https://www.youtube.com/channel/UChR1_TDqKj8ARqsus68QuqA?view_as=subscriber)
 
 
 </t>
